@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there 👋  I'm Khushi Nagar!
 
-<!--
-**khushi6287/khushi6287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Web Developer | 💻 WordPress Specialist | 🌐 Frontend & Backend Enthusiast
 
-Here are some ideas to get you started:
+I’m a passionate Web Developer with hands-on experience in building responsive and user-friendly websites using HTML, CSS, JavaScript, PHP, and WordPress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 About Me
+
+- 🔧 Currently working at **Data Sequence** with 4 months of experience
+- 🌱 Exploring the world of **AI**, **ML**, and **DATA**
+- 🧩 Skilled in:  
+  `HTML` `CSS` `JavaScript` `PHP` `MySQL` `WordPress` `Figma`
+- 🚀 Projects I've worked on:
+  - **StyleCycle** – WordPress-based e-commerce website
+  - **1920 Tattoo Hub** – Live site with custom Figma designs
+  - **BT Boys** – Tie-dye clothing brand site
+  - **Bella Mia Cafe** – Restaurant showcase website
+  - **Shilp Collection** – Jewelry store
+  - **Hover The Kids Activits Center** – School website
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/khushi-nagar-a2706535b/)  
+- 📧 Email: khushinagar6287@gmail.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+
